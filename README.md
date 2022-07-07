@@ -1,5 +1,7 @@
 # Weather-Dashboard
 
+*****NOTE: I had to reupload to a new repo for this assignment like assignment 4, for whatever reason it would not take my last update to my javascript page which was fixing my deployment issue. the original link is https://dhruza88.github.io/WeatherDashboard if needed to check on more commits*****
+
 In this assignment we were tasked with learning how to fully link a 3rd party API, and be able to pull data from object attributes and place them in the proper location on the HTML page.
 
 This further built upon alot of the techniques used in homework assignment 4 the code quiz, the scenario in which you saved local storage and displayed on page which extremely similiar, just changing certain commands to display it differently rather than a high score.
@@ -14,7 +16,7 @@ This was a fun experience learning how much data can come from an API. How you c
 
 Deployed Link Below:
 
-
+https://dhruza88.github.io/WeatherDashboard-2/
 
 ScreenShots Below:
 
