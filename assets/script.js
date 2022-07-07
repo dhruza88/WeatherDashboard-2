@@ -50,10 +50,10 @@ function buildHeader(wData, cityName) {
     const fTemp = Number(((wData.current.temp-273.15)*1.8)+32).toFixed(2);
     let uvClass = 'uv1';
 
-    if (wData.current.uvi > 0.4 && wData.current.uvi < 0.7) {
+    if (wData.current.uvi > 3.0 && wData.current.uvi < 7.0) {
         uvClass = 'uv2';   
     }
-    if (wData.current.uvi > 0.7) {
+    if (wData.current.uvi > 7.0) {
         uvClass = 'uv3';
     }
 
