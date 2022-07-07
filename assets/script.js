@@ -139,9 +139,3 @@ function reLoadSaveCityData(wDataIndex, cityName) {
     const wData = JSON.parse(localStorage.getItem('recentSearch'));
     buildDays(wData[wDataIndex], cityName);
 }
-// localStorage array of objects searched
-// When you click just reload the object into the UI
-// So maybe a function
-// loadWeatherData(weatherData)
-// That takes the weather object and updates the UI
-// So each time you pick it, it will use the same object and just reload
